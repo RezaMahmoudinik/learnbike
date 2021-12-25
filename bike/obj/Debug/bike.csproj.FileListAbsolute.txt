@@ -1,0 +1,7 @@
+D:\project\bike\bike\obj\Debug\bike.csprojAssemblyReference.cache
+D:\project\bike\bike\obj\Debug\bike.csproj.CoreCompileInputs.cache
+D:\project\bike\bike\bin\Debug\bike.exe.config
+D:\project\bike\bike\bin\Debug\bike.exe
+D:\project\bike\bike\bin\Debug\bike.pdb
+D:\project\bike\bike\obj\Debug\bike.exe
+D:\project\bike\bike\obj\Debug\bike.pdb
